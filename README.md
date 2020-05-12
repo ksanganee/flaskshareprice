@@ -1,1 +1,2 @@
 # flaskshareprice
+requires flask
